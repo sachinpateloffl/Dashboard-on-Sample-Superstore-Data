@@ -9,3 +9,11 @@ Created and maintained data visualizations, dashboards, and reports to communica
 
 
 [Data Set Link](https://www.kaggle.com/datasets/bravehart101/sample-supermarket-dataset)
+
+
+# Objective
+1. To analyze Best Selling and Most Profitable category.
+2. To analyze the Most Profitable Customer Segment.
+3. To analyze the Preferred Ship Mode category.
+4. To analyze the Most Profitable Region.
+5. To analyze the Highest Number of Sales city.

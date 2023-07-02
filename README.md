@@ -6,3 +6,6 @@ Created and maintained data visualizations, dashboards, and reports to communica
 
 
 ![Dashoard](https://github.com/sachinpateloffl/Dashboard-on-Sample-Superstore-Data/assets/98209638/3aeece0d-400b-47a4-9d5c-fd49c8b5d613)
+
+
+[Data Set Link](https://www.kaggle.com/datasets/bravehart101/sample-supermarket-dataset)

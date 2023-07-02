@@ -1,4 +1,4 @@
-# Dashboard-on-Sample-Superstore-Data
+# Dashboard-on-Sample-Superstore-Data-using-MS-Excel
 The Super Store dataset contains data on order details of customers for orders of a superstore in the US. This includes the state, region, order date, shipping date, product ordered etc.
 
 
